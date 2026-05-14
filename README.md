@@ -1,17 +1,64 @@
-# tugaspbmapi
+# Tugas Praktikum - Pemrograman Berbasis Mobile 2026
 
-A new Flutter project.
+Aplikasi Flutter untuk tugas praktikum Pemrograman Berbasis Mobile 2026.
 
-## Getting Started
+## Identitas
 
-This project is a starting point for a Flutter application.
+| | |
+|---|---|
+| **Nama** | Dina Zakiyah Wiliansyah |
+| **NIM** | 242410102097 |
+| **Kelas** | TI-B |
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Fitur Aplikasi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Login menggunakan NIM
+- Menampilkan katalog produk
+- Menambahkan draft produk
+- Menghapus produk (soft delete)
+- Submit tugas
+
+---
+
+## Teknologi
+
+- Flutter
+- Dart
+- REST API (Bearer Token)
+- flutter_secure_storage
+- http
+
+---
+
+## Screenshot
+
+### Halaman Login
+![Login](loginscreen.png)
+
+### Halaman Katalog Produk
+![Katalog](catalogproduk.png)
+
+### Halaman Tambah Produk
+![Tambah](tambahproduk.png)
+
+
+---
+
+## Cara Menjalankan
+
+1. Clone repository ini
+```bash
+git clone https://github.com/username/nama-repo.git
+```
+
+2. Install dependencies
+```bash
+flutter pub get
+```
+
+3. Jalankan aplikasi
+```bash
+flutter run
+```
