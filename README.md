@@ -50,7 +50,7 @@ Aplikasi Flutter untuk tugas praktikum Pemrograman Berbasis Mobile 2026.
 
 1. Clone repository ini
 ```bash
-git clone https://github.com/username/nama-repo.git
+git clone [https://github.com/username/nama-repo.git](https://github.com/Dinazakiyah/242410102097_Dina-Zakiyah-w_TugasPBM.git)
 ```
 
 2. Install dependencies
